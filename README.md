@@ -1,7 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Brian! <br/>Programmer</a>, <a href="https://www.linkedin.com/in/brian-pham-b94917141
+/">Cybersecurity Professional</a>, 
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+<h2>CyberSecurity Projects</h2>
+
+
+
+[linkedin]: https://www.linkedin.com/in/brian-pham-b94917141
+
 
 <!--
-**BrianPham2595/BrianPham2595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
