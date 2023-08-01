@@ -5,7 +5,7 @@
 
 
 <h2>CyberSecurity Projects</h2>
-
+<a href="https://github.com/BrianPham2595/File-Integrity-Monitor-using-powershell.git">File Integrity Monitor using Powershell</a>
 
 
 [linkedin]: https://www.linkedin.com/in/brian-pham-b94917141
