@@ -17,6 +17,11 @@
 
  <!-- Adding the new WLAN and Mobile Security Project -->
   <li><a href="https://github.com/BrianPham2595/WLAN-and-Mobile-Security-.git">WLAN and Mobile Security Analysis</a> - A repository focused on analyzing and providing solutions for WLAN and mobile security vulnerabilities in a business environment.</li>
+
+
+  <!-- Adding Digital Forensics Information Leak Report -->
+  <li><a href="https://github.com/BrianPham2595/Digital-Forensics-POA.git">Digital Forensics Plan of Action</a> - A comprehensive investigative plan regarding a case of alleged proprietary information leakage in an oil company.</li>
+
 </ul>
 
 <!-- Your LinkedIn Link -->
