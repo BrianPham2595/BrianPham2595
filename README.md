@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <!-- Your software development projects here -->
+  <li><a href="https://github.com/BrianPham2595/File-Integrity-Monitor-using-powershell.git">PowerShell File Integrity Monitor</a> - A PowerShell script designed for monitoring file integrity within a specified folder.</li>
 
 <h2>CyberSecurity Projects</h2>
 
