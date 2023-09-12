@@ -11,6 +11,9 @@
 <!-- Adding the new Legal Analysis Project -->
 <ul>
   <li><a href="https://github.com/BrianPham2595/Legal-Analysis.git">Legal Analysis</a> - A repository containing my legal analyses on various cybersecurity issues.</li>
+
+<li><a href="https://github.com/BrianPham2595/NMAP-WireShark.git">NMAP and Wireshark Vulnerability Analysis</a> - A repository containing my use of NMAP and WireShark</li>
+ 
 </ul>
 
 <!-- Your LinkedIn Link -->
