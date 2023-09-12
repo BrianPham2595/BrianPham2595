@@ -13,7 +13,9 @@
   <li><a href="https://github.com/BrianPham2595/Legal-Analysis.git">Legal Analysis</a> - A repository containing my legal analyses on various cybersecurity issues.</li>
 
 <li><a href="https://github.com/BrianPham2595/NMAP-WireShark.git">NMAP and Wireshark Vulnerability Analysis</a> - A repository containing my use of NMAP and WireShark</li>
- 
+
+ <!-- Adding the new WLAN and Mobile Security Project -->
+  <li><a href="https://github.com/BrianPham2595/WLAN-and-Mobile-Security-.git">WLAN and Mobile Security Analysis</a> - A repository focused on analyzing and providing solutions for WLAN and mobile security vulnerabilities in a business environment.</li>
 </ul>
 
 <!-- Your LinkedIn Link -->
